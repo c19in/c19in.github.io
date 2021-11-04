@@ -47,7 +47,6 @@ to work with data from other sources. So far we have
   <https://data.covid19bharat.org/>
 
 
-
 ## Contributing
 
 So far this is just [my](https://deepayan.github.io) personal
