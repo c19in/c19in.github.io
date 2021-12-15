@@ -1,6 +1,6 @@
 # COVID-19 data for India
 
-This is a place for experiments.
+This is a place for experiments. Source code available [here](https://github.com/c19in/).
 
 After providing almost real-time updates for COVID-19 data in India
 since March 2021, [covid19india.org](https://covid19india.org) wound
