@@ -3,7 +3,7 @@
 This is a place for experiments.
 
 After providing almost real-time updates for COVID-19 data in India
-since March 2021, [covid19india.org]<https://covid19india.org> wound
+since March 2021, [covid19india.org](https://covid19india.org) wound
 down their crowdsourced data collection operation on 31 October, 2021.
 This data, meticulously collected from various sources and made
 available in a standardized format, as well as the frontend that
